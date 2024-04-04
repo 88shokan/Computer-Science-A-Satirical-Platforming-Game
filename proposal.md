@@ -11,7 +11,7 @@ TODO
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-Mainly python. I am not sure what software I will use to host my code for my game.
+Mainly python. I am not sure what software I will use to host my code for my game. I would probably go with PyGame or GoDot.
 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
