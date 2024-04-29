@@ -1,4 +1,4 @@
-#Purpose of this game is suppose to be really stupid, but addicting somewhat.
+#Purpose of this game is suppose to be really stupid,satirical and simple, but addicting somewhat.
 
 #The obstacles and background music were made by me, with the obstacles being made on photoshop and pixelized, and the song being made on FL Studio 20
 
